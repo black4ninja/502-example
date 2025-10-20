@@ -9,6 +9,7 @@ Proyecto de desarrollo de software con estándares profesionales de control de v
 - [Estándares de Commits](#estándares-de-commits)
 - [Estrategia de Branching](#estrategia-de-branching)
 - [Contribución](#contribución)
+- [Changelog](#changelog)
 
 ## Instalación
 
@@ -88,6 +89,10 @@ git push origin feature/my-feature
 3. Commit cambios siguiendo [Conventional Commits](CONTRIBUTING.md#estándares-de-commits)
 4. Push (`git push origin feature/amazing-feature`)
 5. Abrir [Pull Request](.github/pull_request_template.md)
+
+## Changelog
+
+Ver [CHANGELOG.md](CHANGELOG.md) para la lista completa de cambios por versión.
 
 ## Licencia
 
